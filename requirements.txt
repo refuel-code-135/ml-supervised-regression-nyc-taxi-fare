@@ -1,0 +1,10 @@
+jupyterlab
+pandas
+numpy
+lightgbm
+matplotlib
+seaborn
+scikit-learn
+shap
+pyarrow
+optuna

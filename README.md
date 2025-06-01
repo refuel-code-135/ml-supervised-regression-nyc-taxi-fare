@@ -1,13 +1,15 @@
-# new-york-taxi-fare-prediction
+# ml-supervised-regression-nyc-taxi-fare
 
+```bash
+export CONDA_ENV=ml-supervised-regression-nyc-taxi-fare
 
-```
-## Set Up Analysis environment
-conda create -n new-york-taxi-fare-prediction python=3.10
-conda activate new-york-taxi-fare-prediction
+# Create and activate a new conda environment
+conda create -n $CONDA_ENV python=3.10
+conda activate $CONDA_ENV
 
-pip install jupyterlab pandas numpy lightgbm matplotlib seaborn scikit-learn shap pyarrow optuna
+# Install required Python packages
+pip install -r requirements.txt
 
-
+# Start notetebook
 jupyter lab
 ```
