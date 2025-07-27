@@ -5,6 +5,8 @@
 ## Notebook
 https://github.com/refuel-code-135/ml-supervised-regression-nyc-taxi-fare/blob/main/notebooks/notebook.ipynb
 
+##  Related Repository
+https://github.com/refuel-code-135/ml-predict-api-nyc-taxi-fare
 
 ## Prediction Performance (Final Test)
 
