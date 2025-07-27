@@ -2,6 +2,9 @@
 
 ## Project Overview
 
+## Data
+https://www.kaggle.com/competitions/new-york-city-taxi-fare-prediction/data
+
 ## Notebook
 https://github.com/refuel-code-135/ml-supervised-regression-nyc-taxi-fare/blob/main/notebooks/notebook.ipynb
 
